@@ -13,7 +13,7 @@ Users are granted a limited, non-exclusive, non-transferable license to use the 
 
 You may NOT:
 
-- Copy, modify, or redistribute any part of Flux Music
+- Copy, modify, or redistribute any part of Jupiter
 - Reverse engineer or attempt to extract source code
 - Resell or commercially exploit the bot
 - Use the bot in any unlawful or abusive manner
