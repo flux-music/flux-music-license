@@ -20,7 +20,7 @@ You may NOT:
 
 3. Ownership
 
-All rights, title, and interest in Flux Music remain the property of the developer (iworship.ayush & yours.karan).
+All rights, title, and interest in Jupiter remain the property of the developer (iworship.ayush & yours.karan).
 
 4. Termination
 
